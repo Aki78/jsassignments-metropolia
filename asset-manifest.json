@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jsassignments-metropolia/static/css/main.2b6ff4f8.css",
+    "main.js": "/jsassignments-metropolia/static/js/main.cf78a324.js",
+    "static/js/787.7dce876d.chunk.js": "/jsassignments-metropolia/static/js/787.7dce876d.chunk.js",
+    "index.html": "/jsassignments-metropolia/index.html",
+    "main.2b6ff4f8.css.map": "/jsassignments-metropolia/static/css/main.2b6ff4f8.css.map",
+    "main.cf78a324.js.map": "/jsassignments-metropolia/static/js/main.cf78a324.js.map",
+    "787.7dce876d.chunk.js.map": "/jsassignments-metropolia/static/js/787.7dce876d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b6ff4f8.css",
+    "static/js/main.cf78a324.js"
+  ]
+}
