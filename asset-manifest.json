@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/UglyHTMLCSSWebpage/static/css/main.e1ebe7af.css",
-    "main.js": "/UglyHTMLCSSWebpage/static/js/main.a1d394ab.js",
-    "static/js/651.36a46108.chunk.js": "/UglyHTMLCSSWebpage/static/js/651.36a46108.chunk.js",
-    "index.html": "/UglyHTMLCSSWebpage/index.html",
-    "main.e1ebe7af.css.map": "/UglyHTMLCSSWebpage/static/css/main.e1ebe7af.css.map",
-    "main.a1d394ab.js.map": "/UglyHTMLCSSWebpage/static/js/main.a1d394ab.js.map",
-    "651.36a46108.chunk.js.map": "/UglyHTMLCSSWebpage/static/js/651.36a46108.chunk.js.map"
+    "main.css": "/jsassignments-metropolia/static/css/main.e1ebe7af.css",
+    "main.js": "/jsassignments-metropolia/static/js/main.65979463.js",
+    "static/js/651.36a46108.chunk.js": "/jsassignments-metropolia/static/js/651.36a46108.chunk.js",
+    "index.html": "/jsassignments-metropolia/index.html",
+    "main.e1ebe7af.css.map": "/jsassignments-metropolia/static/css/main.e1ebe7af.css.map",
+    "main.65979463.js.map": "/jsassignments-metropolia/static/js/main.65979463.js.map",
+    "651.36a46108.chunk.js.map": "/jsassignments-metropolia/static/js/651.36a46108.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e1ebe7af.css",
-    "static/js/main.a1d394ab.js"
+    "static/js/main.65979463.js"
   ]
 }
