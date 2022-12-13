@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/jsassignments-metropolia/static/css/main.e1ebe7af.css",
-    "main.js": "/jsassignments-metropolia/static/js/main.65979463.js",
+    "main.css": "/jsassignments-metropolia/static/css/main.907673c4.css",
+    "main.js": "/jsassignments-metropolia/static/js/main.44b0acc8.js",
     "static/js/651.36a46108.chunk.js": "/jsassignments-metropolia/static/js/651.36a46108.chunk.js",
     "index.html": "/jsassignments-metropolia/index.html",
-    "main.e1ebe7af.css.map": "/jsassignments-metropolia/static/css/main.e1ebe7af.css.map",
-    "main.65979463.js.map": "/jsassignments-metropolia/static/js/main.65979463.js.map",
+    "main.907673c4.css.map": "/jsassignments-metropolia/static/css/main.907673c4.css.map",
+    "main.44b0acc8.js.map": "/jsassignments-metropolia/static/js/main.44b0acc8.js.map",
     "651.36a46108.chunk.js.map": "/jsassignments-metropolia/static/js/651.36a46108.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e1ebe7af.css",
-    "static/js/main.65979463.js"
+    "static/css/main.907673c4.css",
+    "static/js/main.44b0acc8.js"
   ]
 }
